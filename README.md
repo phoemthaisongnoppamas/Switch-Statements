@@ -1,0 +1,2 @@
+# Switch-Statements
+int day = 4; switch (day) {   case 1:     cout &lt;&lt; "Monday";     break;   case 2:     cout &lt;&lt; "Tuesday";     break;   case 3:     cout &lt;&lt; "Wednesday";     break;   case 4:     cout &lt;&lt; "Thursday";     break;   case 5:     cout &lt;&lt; "Friday";     break;   case 6:     cout &lt;&lt; "Saturday";     break;   case 7:     cout &lt;&lt; "Sunday";     break; } // Outputs "Thursday" (day 4)
